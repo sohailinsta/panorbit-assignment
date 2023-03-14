@@ -1,0 +1,23 @@
+.todoListContainer {
+    /* background-color: white; */
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+    overflow: hidden;
+    display: flex;
+}
+.mainContent {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    overflow: auto;
+}
+.mainContentTitle {
+    font-size: 70px;
+    color: #ebe9e9;
+    font-weight: 700;
+    margin-top: auto;
+    margin-bottom: auto;
+    text-align: center;
+    padding-bottom: 70px;
+}

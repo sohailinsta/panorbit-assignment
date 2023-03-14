@@ -1,0 +1,8 @@
+.topContainer {
+    /* border-bottom: 2px solid #F3F5F7; */
+    padding: 18px 32px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 18px;
+}

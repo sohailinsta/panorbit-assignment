@@ -1,0 +1,35 @@
+.sidebar {
+    width: 286px;
+    height: 90%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    border-right: 1px solid #F3F5F7;
+    overflow: auto;
+    border-radius: 30px;
+    background: linear-gradient(109.6deg, rgb(27 78 149 / 73%) 11.2%, rgb(69 8 161 / 87%) 91.2%);
+}
+.sidebarItemsChecked {
+    color: white;
+    cursor: pointer;
+}
+.sidebarItems {
+    color: rgb(173, 169, 169);
+    cursor: pointer;
+}
+.sidebarItemsHorizontalLine {
+    width: 80%;
+}
+.sidebarItemPost {
+    color: #b7abab;
+    text-decoration: none;
+}
+.sidebarItemPost:active {
+    color: white;
+}
+.sidebarItemPost:visited {
+    color: white;
+}
+.sidebarItemPost:hover {
+    color: white;
+}
